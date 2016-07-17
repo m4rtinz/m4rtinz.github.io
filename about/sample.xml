@@ -1,0 +1,67 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+<channel>
+<title>Sample RSS Video</title>
+<link>http://rssvideoplayer.com/sample.xml</link>
+<language>en-us</language>
+<item>
+<title>MP4 Video</title>
+<link>http://www.bigbuckbunny.org</link>
+<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+<description>
+<![CDATA[
+<img src='http://peach.blender.org/wp-content/uploads/title_anouncement.jpg' /> Big Buck Bunny Animation - Mp4 video
+]]>
+</description>
+<bookmark>false</bookmark>
+<enclosure url="http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4" type="video/mp4" length="8748136"/>
+<media:thumbnail url="http://peach.blender.org/wp-content/uploads/title_anouncement.jpg"/>
+</item>
+<item>
+<title>m3u8 playlist</title>
+<link>http://apple.com</link>
+<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+<description>
+<![CDATA[
+<img src='http://rssvideoplayer.com/play.png' /> M3u8 playlist example
+]]>
+</description>
+<bookmark>true</bookmark>
+<enclosure url="http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8" type="application/x-mpegurl" length="1"/>
+<media:thumbnail url="http://rssvideoplayer.com/play.png"/>
+</item>
+<item>
+<title>A Youtube Video</title>
+<link>http://www.youtube.com/watch?v=o4Yzj-m_SBk</link>
+<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+<description>
+<![CDATA[
+<img src='http://i1.ytimg.com/vi/o4Yzj-m_SBk/hqdefault.jpg' /> A Youtube Video example
+]]>
+</description>
+<enclosure url="http://www.youtube.com/watch?v=o4Yzj-m_SBk" type="web/youtube" length="1"/>
+<media:thumbnail url="http://i1.ytimg.com/vi/o4Yzj-m_SBk/hqdefault.jpg"/>
+</item>
+<item>
+<title>A webpage</title>
+<link>http://rssvideoplayer.com</link>
+<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+<description>
+<![CDATA[
+<img src='http://rssvideoplayer.com/play.png' /> A webpage example
+]]>
+</description>
+<enclosure url="http://google.com" type="web/html" length="1"/>
+<media:thumbnail url="http://rssvideoplayer.com/play.png"/>
+</item>
+<item>
+<title>A RSS</title>
+<link>http://rssvideoplayer.com/</link>
+<pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
+<description>
+<![CDATA[ <img src='http://rssvideoplayer.com/play.png' /> ]]>
+</description>
+<enclosure url="http://rssvideoplayer.com/sample1.xml" type="application/rss+xml" length="1"/>
+<media:thumbnail url="http://rssvideoplayer.com/play.png"/>
+</item>
+</channel>
+</rss>
