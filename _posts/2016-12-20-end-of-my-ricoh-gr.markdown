@@ -2,6 +2,7 @@
 published: true
 title: End of my Ricoh GR
 layout: post
+tags: [photography, ricoh_gr]
 ---
 One of best cameras just called quits on 18 Dec 16. The lens just stuck out and remained there, and wouldn't close again. The shutter remained close, so any shots will returned a pure white image. The condition is similar to another RICOH user, @Chang-hoon Ryu who shared his stuck camera on youtube - https://www.youtube.com/watch?v=cPi34W-XFU8.
 
